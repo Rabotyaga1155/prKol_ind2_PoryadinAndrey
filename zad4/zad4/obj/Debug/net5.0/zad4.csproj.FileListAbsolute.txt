@@ -1,0 +1,16 @@
+C:\Users\305-10\Desktop\Порядин\newraba\zad4\zad4\bin\Debug\net5.0\zad4.exe
+C:\Users\305-10\Desktop\Порядин\newraba\zad4\zad4\bin\Debug\net5.0\zad4.deps.json
+C:\Users\305-10\Desktop\Порядин\newraba\zad4\zad4\bin\Debug\net5.0\zad4.runtimeconfig.json
+C:\Users\305-10\Desktop\Порядин\newraba\zad4\zad4\bin\Debug\net5.0\zad4.runtimeconfig.dev.json
+C:\Users\305-10\Desktop\Порядин\newraba\zad4\zad4\bin\Debug\net5.0\zad4.dll
+C:\Users\305-10\Desktop\Порядин\newraba\zad4\zad4\bin\Debug\net5.0\ref\zad4.dll
+C:\Users\305-10\Desktop\Порядин\newraba\zad4\zad4\bin\Debug\net5.0\zad4.pdb
+C:\Users\305-10\Desktop\Порядин\newraba\zad4\zad4\obj\Debug\net5.0\zad4.csproj.AssemblyReference.cache
+C:\Users\305-10\Desktop\Порядин\newraba\zad4\zad4\obj\Debug\net5.0\zad4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\305-10\Desktop\Порядин\newraba\zad4\zad4\obj\Debug\net5.0\zad4.AssemblyInfoInputs.cache
+C:\Users\305-10\Desktop\Порядин\newraba\zad4\zad4\obj\Debug\net5.0\zad4.AssemblyInfo.cs
+C:\Users\305-10\Desktop\Порядин\newraba\zad4\zad4\obj\Debug\net5.0\zad4.csproj.CoreCompileInputs.cache
+C:\Users\305-10\Desktop\Порядин\newraba\zad4\zad4\obj\Debug\net5.0\zad4.dll
+C:\Users\305-10\Desktop\Порядин\newraba\zad4\zad4\obj\Debug\net5.0\ref\zad4.dll
+C:\Users\305-10\Desktop\Порядин\newraba\zad4\zad4\obj\Debug\net5.0\zad4.pdb
+C:\Users\305-10\Desktop\Порядин\newraba\zad4\zad4\obj\Debug\net5.0\zad4.genruntimeconfig.cache
